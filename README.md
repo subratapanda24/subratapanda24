@@ -1,6 +1,6 @@
 <p align="center">
   <img src="profile.jpeg"
-width="650" style="border-radius:50%" />
+width="660" style="border-radius:50%" />
 </p>
 
 # 💫 About Me:
