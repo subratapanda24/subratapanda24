@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="profile.jpeg" width="150" style="border-radius:50%" />
+  <img src="profile.jpeg"
+width="250" style="border-radius:50%" />
 </p>
-# 💫 About Me:
+##💫 About Me:
 Hi, I’m Subrata 👋  <br>I’m a Computer Science student currently learning Python and Data Analysis.  <br>As of now I'm exploring different domains to build a strong foundation
 
 
