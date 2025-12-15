@@ -2,6 +2,7 @@
   <img src="profile.jpeg"
 width="600" style="border-radius:50%" />
 </p>
+
 # 💫 About Me:
 Hi, I’m Subrata 👋  <br>I’m a Computer Science student currently learning Python and Data Analysis.  <br>As of now I'm exploring different domains to build a strong foundations
 
