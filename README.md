@@ -3,7 +3,7 @@
 width="660" style="border-radius:50%" />
 </p>
 
-# 💫 About Me:
+#  About Me:
 Hi, I’m Subrata 👋  <br>I’m a Computer Science student currently learning Python and Data Analysis.  <br>As of now I'm exploring different domains to build a strong foundations
 
 
