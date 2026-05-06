@@ -18,8 +18,6 @@ Hi, I’m Subrata 👋  <br>I’m a Computer Science student currently learning 
 
 </p>
 
-
-JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&llogoColor%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subratapanda24&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=subratapanda24&theme=vision-friendly-dark&hide_border=false)<br/>
