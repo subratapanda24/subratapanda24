@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="profile.jpg" />
+  <img width="80%" src="profile.jpg" />
 </div>
 
 ###
@@ -49,26 +49,28 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=subratapanda24&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=subratapanda24&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" width="65%" alt="streak graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/trophy-output/trophy.svg" width="100%" alt="trophy graph" />
+  <img src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/trophy-output/trophy.svg" width="75%" alt="trophy graph" />
 </div>
 
 ###
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph-dark.svg">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph.svg">
 
-  <img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph.svg">
-</picture>
+    <img width="90%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ###
 
@@ -79,13 +81,13 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/stats-output/stats.svg" width="65%" alt="stats graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/languages-output/languages.svg" width="100%" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/languages-output/languages.svg" width="55%" alt="languages graph" />
 </div>
 
 ###
