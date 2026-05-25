@@ -62,17 +62,14 @@
 
 <br clear="both">
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph-dark.svg">
-
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph.svg">
-
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph.svg" width="92%">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/subratapanda24/subratapanda24/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=subratapanda24.subratapanda24&" />
