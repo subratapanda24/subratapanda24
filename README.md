@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="center">Hey, I'm Subrata 👋<br>Just Shipping Ideas, One Commit at a Time.</h4>
+<h2 align="center">Hey, I'm Subrata 👋<br>Just Shipping Ideas, One Commit at a Time.</h2>
 
 ###
 
