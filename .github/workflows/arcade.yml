@@ -26,6 +26,10 @@ jobs:
         env:
           NODE_OPTIONS: --max-old-space-size=4096
 
+      - name: Create dist directory and move output
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/ 2>/dev/null || true
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
