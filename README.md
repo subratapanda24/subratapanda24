@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img width="82%" src="profile.jpg" />
+  <img width="82%" src="profile.gif" />
 </div>
 
 ###
